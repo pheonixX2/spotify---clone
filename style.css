@@ -1,0 +1,24 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: black;
+    color: white;
+}
+
+#upper-section{
+height: 72PX;
+width: 100%;
+
+
+}
+#logo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 72px;
+    height: 72px;
+}
+#logo img{
+    filter: invert(1);
+}
