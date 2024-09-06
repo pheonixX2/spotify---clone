@@ -9,6 +9,8 @@ body{
 #upper-section{
 height: 72PX;
 width: 100%;
+display: flex;
+align-items: center;
 
 
 }
@@ -19,6 +21,17 @@ width: 100%;
     width: 72px;
     height: 72px;
 }
-#logo img{
+.inv{
     filter: invert(1);
 }
+
+#home{
+    display: flex;
+    justify-content: center;
+    width: 48px;
+    align-items: center;
+    height: 48px;
+    border-radius: 50%;
+    background-color: #1f1f1f;
+}
+
