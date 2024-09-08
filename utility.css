@@ -1,0 +1,27 @@
+.border{
+    border:2px solid white;
+}
+
+.flex{
+    display: flex;
+}
+
+.align-center{
+    align-items:center ;
+}
+.white{
+
+    color: white;
+}
+.justify-center{
+    justify-content:center;}
+
+.justify-around{
+    justify-content: space-around;
+}
+.justify-between{
+    justify-content: space-evenly;
+}
+.justify-evenly{
+    justify-content:space-evenly;
+}
